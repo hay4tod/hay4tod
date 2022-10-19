@@ -49,20 +49,12 @@ Sleep during class</li>
 
 ```
 
-## 📈 Statistics
-
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=dark&show_icons=true" alt="hay4tod" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrx&hide_border=true&theme=dark&show_icons=true" />
-</p>
+<div>
+<div align="center">
+<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+</div>
 
   <p align="center">
      <b>This biodata is the result of my first coding, 
      and this biodata is made because of fun</b>
 </p>
-
-<div>
-<div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
-</div>
