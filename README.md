@@ -2,8 +2,7 @@
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-
-<h1 align="center">I'm <a href="https://t.me/hay4tod">Yuanda</a>!</h1>
+</div>
 
 ## 👁‍🗨 About Me : 
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
