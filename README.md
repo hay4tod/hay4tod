@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
-![image](https://graph.org/file/a06d0fc70d2a5630a439e.jpg)
-</h3>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 
 <h1 align="center">I'm <a href="https://t.me/hay4tod">Yuanda</a>!</h1>
 
