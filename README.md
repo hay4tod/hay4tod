@@ -16,7 +16,7 @@
 <b>Address:</b> Banten, Indonesia🇲🇨</li>
 <li>
 <b>Loves:</b> Cat, Anime, Games</li>
-</div>
+
 
 <br><br>
 ## 📖 Learning :
