@@ -3,8 +3,7 @@
 ![image](https://telegra.ph/file/b49aa6ee9c1321da44ba4.jpg) 
 
 ## 👁‍🗨 About Me : 
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-<br>
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="180" height="180" /></a>
 <li>
 <b>Name:</b> Maulana Dwinoval Yuanda</li>
 <li>
