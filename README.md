@@ -12,8 +12,6 @@
 <li>
 <b>Gender:</b> Male</li>
 <li>
-<b>year of birth</b> 2004</li>
-<li>
 <b>17 years old</b></li>
 <li>
 <b>Address:</b> Banten,Indonesia🇲🇨</li>
