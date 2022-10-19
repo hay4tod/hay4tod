@@ -17,6 +17,17 @@
 -   playing a game
 -   sleep during class
 
+## 📈 Statistics
+
+<br/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=dark&show_icons=true" alt="hay4tod" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrx&hide_border=true&theme=dark&show_icons=true" />
+</p>
+
+<hr />
+
+
 ## Contact Me:
 - <a href="https://t.me/hayatoShinomiya">Telegram</a1>
 - <a href="https://wa.me/+62895404330700">WhatsApp</a2>
