@@ -5,16 +5,22 @@
 
 <h1 align="center">I'm <a href="https://t.me/hay4tod">Yuanda</a>!</h1>
 
-## 📍 About Me: 
+## 📍 About Me : 
 
-- im 17 years old, i live in Banten Indonesia🇲🇨
+- My name is Yuanda
+- I was born in 2004
+- Now i am 17 years old
+- I live in Banten Indonesia🇲🇨
 
 ## 📖 Learning :
--   to be better than the previous day
+-   To be better than the previous day
 
-## 🕹 Hobbies
--   playing a game
--   sleep during class
+## 🕹 Hobbies :
+-   Playing a game
+-   Sleep during class
+
+## 📣 Store :
+- You can check my side job at my <a href="https://t.me/hayatostore">Shop</a1>
 
 ## 🎧 Spotify Playing
 
