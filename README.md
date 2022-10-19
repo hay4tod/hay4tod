@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+![image](https://telegra.ph/file/b49aa6ee9c1321da44ba4.jpg) 
 
 ## 👁‍🗨 About Me : 
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
@@ -10,16 +8,18 @@
 <li>
 <b>Name:</b> Yuanda</li>
 <li>
+<b>Status:</b> Student</li>
+<li>
 <b>Gender:</b> Male</li>
 <li>
-<b>17 years old</b></li>
+<b>Age:</b> 17 y.o</li>
 <li>
 <b>Address:</b> Banten,Indonesia🇲🇨</li>
 <li>
 <b>Loves:</b> Cat,Anime,Games</li>
 </div>
 
-<br><br><br>
+<br><br>
 ## 📖 Learning :
 -   To be better than the previous day
 
