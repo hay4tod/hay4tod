@@ -5,17 +5,30 @@
 
 <h1 align="center">I'm <a href="https://t.me/hay4tod">Yuanda</a>!</h1>
 
-## About Me:
+## 📍 About Me: 
 
 - im 17 years old, i live in Banten Indonesia🇲🇨
 
-
-### Learning :
+## 📖 Learning :
 -   to be better than the previous day
 
-### Hobbies
+## 🕹 Hobbies
 -   playing a game
 -   sleep during class
+
+## 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kelfmt334mrkruanmwyjzafw5q&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kelfmt334mrkruanmwyjzafw5q&redirect=true)
+
+## 🦉I Am A Night
+
+```text
+🌞 Morning    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
+🌆 Daytime    67 commits     █████████░░░░░░░░░░░░░░░░   38.73% 
+🌃 Evening    70 commits     ██████████░░░░░░░░░░░░░░░   40.46% 
+🌙 Night      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4%
+
+```
 
 ## 📈 Statistics
 
