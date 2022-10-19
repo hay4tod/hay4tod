@@ -58,3 +58,6 @@ Sleep during class</li>
      <b>This biodata is the result of my first coding, 
      and this biodata is made because of fun</b>
 </p>
+
+  <h1 align="center">Thanks
+</h1>
