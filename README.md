@@ -17,8 +17,6 @@
 <li>
 <b>Loves:</b> Cat, Anime, Games</li>
 
-
-<br><br>
 ## 📖 Learning :
 -   To be better than the previous day
 
