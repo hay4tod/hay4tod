@@ -18,14 +18,26 @@
 <b>Loves:</b> Cat, Anime, Games</li>
 
 ## 📖 Learning :
--   To be better than the previous day
+<li>
+To be better than the previous day</li>
 
 ## 🕹 Hobbies :
--   Playing a game
--   Sleep during class
+<li>
+Playing a game</li>
+<li>
+Sleep during class</li>
 
 ## 📣 Store :
-- You can check my side job at my <a href="https://t.me/hayatostore">Shop</a1>
+
+<p align="center">
+   <b>You can check my side job at my channel
+   <a href="https://t.me/hayatostore">Store
+</a> on telegram</b>
+<p align="center">
+  <b>or you can visit my website
+   <a href=https://tokovpn.com/shino">Store</a></b>
+</p>
+
 
 ## 🎧 Spotify Playing
 
@@ -49,7 +61,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrx&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
-<hr />
+  <p align="center">
+     <b>This biodata is the result of my first coding, 
+     and this biodata is made because of fun</b>
+</p>
 
 <div>
 <div align="center">
