@@ -14,7 +14,7 @@
 <li>
 <b>Age:</b> 17 y.o</li>
 <li>
-<b>Address:</b> Banten,Indonesia🇲🇨</li>
+<b>Address:</b> Banten, Indonesia🇲🇨</li>
 <li>
 <b>Loves:</b> Cat, Anime, Games</li>
 </div>
