@@ -35,7 +35,7 @@ Sleep during class</li>
 </a> on telegram</b>
 <p align="center">
   <b>or you can visit my website
-   <a href=https://tokovpn.com/shino">Store</a></b>
+   <a href=https://tokovpn.com/Shino">Store</a></b>
 </p>
 
 
