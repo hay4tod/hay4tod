@@ -6,11 +6,19 @@
 <h1 align="center">I'm <a href="https://t.me/hay4tod">Yuanda</a>!</h1>
 
 ## 👁‍🗨 About Me : 
-
-- My name is Yuanda
-- I was born in 2004
-- Now i am 17 years old
-- I live in Banten Indonesia🇲🇨
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<li>
+<b>Yuanda<b/></li>
+<li>
+<b>My Gender Is Male</b></li>
+<li>
+<b>year of birth</b> 2004</li>
+<li>
+<b>17 years old<b/></li>
+<li>
+<b>Banten Indonesia🇲🇨</b></li>
+<li>
+<b>Loves Cat, Anime</b></li>
 
 ## 📖 Learning :
 -   To be better than the previous day
@@ -52,4 +60,8 @@
 - <a href="https://t.me/hayatoShinomiya">Telegram</a1>
 - <a href="https://wa.me/+62895404330700">WhatsApp</a2>
 
-
+<div>
+<h2 align="center">Thanks</h2>
+<div align="center">
+<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+</div>
