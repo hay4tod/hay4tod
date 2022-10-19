@@ -5,7 +5,7 @@
 
 <h1 align="center">I'm <a href="https://t.me/hay4tod">Yuanda</a>!</h1>
 
-## 📍 About Me : 
+## 👁‍🗨 About Me : 
 
 - My name is Yuanda
 - I was born in 2004
