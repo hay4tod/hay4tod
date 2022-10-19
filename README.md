@@ -3,7 +3,7 @@
 ![image](https://telegra.ph/file/b49aa6ee9c1321da44ba4.jpg) 
 
 ## 👁‍🗨 About Me : 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="180" height="180" /></a>
+
 <li>
 <b>Name:</b> Maulana Dwinoval Yuanda</li>
 <li>
@@ -53,13 +53,8 @@
 
 <hr />
 
-
-## Contact Me:
-- <a href="https://t.me/hayatoShinomiya">Telegram</a1>
-- <a href="https://wa.me/+62895404330700">WhatsApp</a2>
-
 <div>
-<h2 align="center">Thanks</h2>
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<h2 align="center">Thanks</h2>
 </div>
