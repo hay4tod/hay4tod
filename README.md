@@ -33,11 +33,7 @@ Sleep during class</li>
    <b>You can check my side job at my channel
    <a href="https://t.me/hayatostore">Store
 </a> on telegram</b>
-<p align="center">
-  <b>or you can visit my website
-   <a href=https://tokovpn.com/Shino">Store</a></b>
 </p>
-
 
 ## 🎧 Spotify Playing
 
@@ -69,5 +65,4 @@ Sleep during class</li>
 <div>
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
-<h2 align="center">Thanks</h2>
 </div>
