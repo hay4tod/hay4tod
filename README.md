@@ -18,7 +18,7 @@
 
 ## 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kelfmt334mrkruanmwyjzafw5q&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kelfmt334mrkruanmwyjzafw5q&redirect=true)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuandaa)
 
 ## 🦉I Am A Night
 
