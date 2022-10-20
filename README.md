@@ -5,7 +5,7 @@
 ## 👁‍🗨 About Me : 
 
 <li>
-<b>Name:</b> Maulana Dwinoval Yuanda</li>
+<b>Name:</b> Yuanda</li>
 <li>
 <b>Status:</b> Student</li>
 <li>
