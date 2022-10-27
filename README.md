@@ -51,7 +51,7 @@ Sleep during class</li>
 
 <div>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://telegra.ph/file/996a0c286c0e2b0feca33.jpg">
 </div>
 
   <p align="center">
