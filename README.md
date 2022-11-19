@@ -11,7 +11,7 @@
 <li>
 <b>Gender:</b> Male</li>
 <li>
-<b>Age:</b> 17 y.o</li>
+<b>Age:</b> 18 y.o</li>
 <li>
 <b>Address:</b> Banten, Indonesia🇲🇨</li>
 <li>
