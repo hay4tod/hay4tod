@@ -37,8 +37,7 @@ Sleep during class</li>
 
 ## 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hfxmqxipcshvxqfiutiron7ewa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hfxmqxipcshvxqfiutiron7ewa&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sayyam42&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sayyam42&redirect=true)
 ## 🦉I Am A Night
 
 ```text
